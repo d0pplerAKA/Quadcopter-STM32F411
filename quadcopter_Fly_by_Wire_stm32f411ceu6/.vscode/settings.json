@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "timer.h": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "string": "c",
+        "i2c.h": "c",
+        "adc_voltage.h": "c",
+        "windows.h": "c",
+        "xmemory": "c",
+        "memory": "c",
+        "vl53l1_platform.h": "c",
+        "vl53l1_platform_user_data.h": "c",
+        "vl53l1_def.h": "c",
+        "vl53l1x_i2c.h": "c",
+        "vl53l1_api.h": "c",
+        "tof400c.h": "c",
+        "gy_95t.h": "c",
+        "led.h": "c",
+        "xbox.h": "c",
+        "post.h": "c",
+        "functional": "c",
+        "ms5611.h": "c",
+        "fwb.h": "c",
+        "flash.h": "c",
+        "bl_motor.h": "c"
+    }
+}
